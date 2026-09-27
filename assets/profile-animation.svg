@@ -21,7 +21,7 @@
   <circle cx="760" cy="230" r="65" fill="#00e5ff" opacity=".16" filter="url(#blur)"><animate attributeName="cy" values="230;65;230" dur="8s" repeatCount="indefinite"/></circle>
   <path d="M0 245 Q225 170 450 245 T900 245" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".7"><animate attributeName="d" values="M0 245 Q225 170 450 245 T900 245;M0 245 Q225 300 450 245 T900 245;M0 245 Q225 170 450 245 T900 245" dur="6s" repeatCount="indefinite"/></path>
   <g text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" filter="url(#shadow)">
-    <text x="450" y="125" fill="#fff" font-size="42" font-weight="700">GALANG DP</text>
+    <text x="450" y="125" fill="#fff" font-size="42" font-weight="700">Galang.Dhanu</text>
     <text x="450" y="165" fill="#8deaff" font-size="20">DESIGNER • DEVELOPER • CREATOR</text>
     <text x="450" y="210" fill="#c8efff" font-size="16">&lt; build something amazing /&gt;</text>
   </g>
