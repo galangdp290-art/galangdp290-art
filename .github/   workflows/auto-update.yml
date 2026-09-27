@@ -1,4 +1,3 @@
-name: Auto Update GitHub Profile
 on:
   schedule:
     # Update setiap hari jam 00:00 UTC
